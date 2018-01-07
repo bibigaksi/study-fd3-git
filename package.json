@@ -1,0 +1,24 @@
+{
+  "name": "study-fd3-git",
+  "version": "1.0.0",
+  "description": "* lsit1\r * list2\r ```javascript\r function a() {\r     console.log(1);\r }\r ```\r 로컬에서 readme.md를 수정하고 있습니다.",
+  "main": "123.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibigaksi/study-fd3-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibigaksi/study-fd3-git/issues"
+  },
+  "homepage": "https://github.com/bibigaksi/study-fd3-git#readme",
+  "devDependencies": {
+    "i": "^0.3.6",
+    "jest": "^22.0.4",
+    "npm": "^5.6.0"
+  }
+}
